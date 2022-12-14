@@ -146,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E87A10B22949E24100D49015 /* ContentView.swift in Sources */,
+				E87A10BF294A100800D49015 /* CheeryView.swift in Sources */,
 				E87A10B02949E24100D49015 /* GitCherryApp.swift in Sources */,
 				E87A10C1294A123F00D49015 /* PickView.swift in Sources */,
 			);
