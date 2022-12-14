@@ -15,6 +15,7 @@ struct CherryView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
+            Text("No worries this will be fine")
         }
         .padding()
     }
