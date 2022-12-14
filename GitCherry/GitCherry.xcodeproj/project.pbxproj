@@ -11,6 +11,8 @@
 		E87A10B22949E24100D49015 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87A10B12949E24100D49015 /* ContentView.swift */; };
 		E87A10B42949E24200D49015 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E87A10B32949E24200D49015 /* Assets.xcassets */; };
 		E87A10B82949E24200D49015 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E87A10B72949E24200D49015 /* Preview Assets.xcassets */; };
+		E87A10BF294A100800D49015 /* CheeryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87A10BE294A100800D49015 /* CheeryView.swift */; };
+		E87A10C1294A123F00D49015 /* PickView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87A10C0294A123F00D49015 /* PickView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		E87A10B32949E24200D49015 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E87A10B52949E24200D49015 /* GitCherry.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GitCherry.entitlements; sourceTree = "<group>"; };
 		E87A10B72949E24200D49015 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E87A10BE294A100800D49015 /* CheeryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheeryView.swift; sourceTree = "<group>"; };
+		E87A10C0294A123F00D49015 /* PickView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				E87A10B32949E24200D49015 /* Assets.xcassets */,
 				E87A10B52949E24200D49015 /* GitCherry.entitlements */,
 				E87A10B62949E24200D49015 /* Preview Content */,
+				E87A10BE294A100800D49015 /* CheeryView.swift */,
+				E87A10C0294A123F00D49015 /* PickView.swift */,
 			);
 			path = GitCherry;
 			sourceTree = "<group>";
@@ -141,6 +147,7 @@
 			files = (
 				E87A10B22949E24100D49015 /* ContentView.swift in Sources */,
 				E87A10B02949E24100D49015 /* GitCherryApp.swift in Sources */,
+				E87A10C1294A123F00D49015 /* PickView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
